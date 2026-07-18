@@ -2,9 +2,8 @@
 <h3 align="center">Code. Learn. Build. Repeat</h3>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW51N2x5am15ZHBrZ3h5dDR4ZnM3am15ZDR3Y3ZtMzJ5dnp3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss01FdYvZOOq2GZGg/giphy.gif" width="500" alt="Lo-Fi Developer Workspace" />
-</p>
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV6dXYyeXF3ZGJhbmwyM2g0c3VhZG5kZTYxdmw1eTBiNnVnMWo4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif
+
 ⚡ Quick Bytes About Me:
 
 💡 Passionate about Software Development and AI
