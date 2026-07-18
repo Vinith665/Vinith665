@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinithraj</h1>
 <h3 align="center">Code. Learn. Build. Repeat</h3>
+👨‍💻 About Me
+💡 Passionate about Software Development and AI
 
 - 📫 How to reach me **vinithraj1121@gmail.com**
 
