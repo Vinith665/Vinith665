@@ -8,6 +8,7 @@
 ⚡ Quick Bytes About Me:
 
 💡 Passionate about Software Development and AI
+
 🤝 Always eager to collaborate on open-source projects and team builds
 
 📫 How to reach me **vinithraj1121@gmail.com**
