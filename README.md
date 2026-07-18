@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Hi%20👋%20I'm%20Vinithraj&fontSize=70" alt="Animated Header" />
-</p>
+<h1 align="center">Hi 👋, I'm Vinithraj</h1>
 <h3 align="center">Code. Learn. Build. Repeat</h3>
 
 <p align="center">
@@ -11,7 +9,6 @@
 
 💡 Passionate about Software Development and AI
 🤝 Always eager to collaborate on open-source projects and team builds
-
 
 📫 How to reach me **vinithraj1121@gmail.com**
 
