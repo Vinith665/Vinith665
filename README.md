@@ -2,7 +2,7 @@
 <h3 align="center">Adapt. Don't resist.</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV6dXYyeXF3ZGJhbmwyM2g0c3VhZG5kZTYxdmw1eTBiNnVnMWo4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="450" alt="Coding Animation" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pmMXcwYTZlNTV4NmV3N2l2bWF1d3gzOHVuZTVzbGI2cWQwZmJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif" width="450" alt="Coding Animation" />
 </p>
 
 ⚡ Quick Bytes About Me:
