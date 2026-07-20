@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi , I'm Vinithraj</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Vinithraj</h1>
 <h3 align="center">Adapt. Don't resist.</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 🤝 Always eager to collaborate on open-source projects and team builds
 
-📫 How to reach me **vinithraj1121@gmail.com**
+ 📫 How to reach me **vinithraj1121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
