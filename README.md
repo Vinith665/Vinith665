@@ -5,7 +5,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3pmMXcwYTZlNTV4NmV3N2l2bWF1d3gzOHVuZTVzbGI2cWQwZmJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI1erPMTMBFmNHi/giphy.gif" width="450" alt="Coding Animation" />
 </p>
 
-⚡ Quick Bytes About Me:
+
 
 💡 Passionate about Software Development and AI
 
