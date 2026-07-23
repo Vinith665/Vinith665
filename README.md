@@ -11,6 +11,8 @@
 
 🤝 Always eager to collaborate on open-source projects and team builds
 
+• Checkout my Details → 🧑‍💻 [click]([https://your-link.com](https://multiverse-06.netlify.app/))
+
  📫 How to reach me **vinithraj1121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
